@@ -1,9 +1,9 @@
 /*
-  @author   $AlonaKashpruk
-  @project   $FirstAndSecondLessons
-  @class  ${NAME}
+  @author   Alona Kashpruk
+  @project   First Second Lessons
+  @class  Main
   @version  1.0.0
-  @since ${DATE} - ${HOUR}.${MINUTE}
+  @since 01.03.2021 - 19.35
 */
 
 public class Main {
