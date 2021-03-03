@@ -1,6 +1,6 @@
 /*
-  @author   ${USER}
-  @project   ${PROJECT_NAME}
+  @author   $AlonaKashpruk
+  @project   $FirstAndSecondLessons
   @class  ${NAME}
   @version  1.0.0
   @since ${DATE} - ${HOUR}.${MINUTE}
@@ -21,12 +21,12 @@ public class Main {
         System.out.println(" We have " + year + " year now.");
 
         // int 2^32 ~ 2 000 000 000
-        int salary = 100_000;
-        System.out.println(" My salary is " + salary + "$ a month.");
+        int mySalary = 100_000;
+        System.out.println(" My salary is " + mySalary + "$ a month.");
 
         // long 2^64
-        long population = 7_000_000_000l;
-        System.out.println(" Global population is about " + population + " humans.");
+        long populationGlobal = 7_000_000_000l;
+        System.out.println(" Global population is about " + populationGlobal + " humans.");
 
         // float
         float height = 185.5f;
@@ -38,7 +38,7 @@ public class Main {
 
         //char
         char sign = 'K';
-        System.out.println(" the first letter of my surname is " + sign);
+        System.out.println(" The first letter of my surname is " + sign);
 
         //boolean true/false
         boolean abcd = true;
