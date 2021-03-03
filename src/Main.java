@@ -14,7 +14,7 @@ public class Main {
         // 8 primitive types in java
         // byte +-127
         byte myAge = 22; // +-127
-        System.out.println(" My age is " + age + " years.");
+        System.out.println(" My age is " + myAge + " years.");
 
         // short 2^16 ~ 65000
         short year = 2021;
