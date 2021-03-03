@@ -1,3 +1,11 @@
+/*
+  @author   ${USER}
+  @project   ${PROJECT_NAME}
+  @class  ${NAME}
+  @version  1.0.0
+  @since ${DATE} - ${HOUR}.${MINUTE}
+*/
+
 public class Main {
 
     public static void main(String[] args) {
@@ -5,7 +13,7 @@ public class Main {
 
         // 8 primitive types in java
         // byte +-127
-        byte age = 22; // +-127
+        byte myAge = 22; // +-127
         System.out.println(" My age is " + age + " years.");
 
         // short 2^16 ~ 65000
