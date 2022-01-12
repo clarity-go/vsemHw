@@ -7,7 +7,7 @@
 */
 
 public class Palindrome {
-
+    // ---
     // "psvm" for class to be usable - точка входа
     // in console to call: Palindrome /firstArgument/secondArgument/... - array of Strings
     public static void main(String[] args) {
